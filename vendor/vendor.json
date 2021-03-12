@@ -1,0 +1,61 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "HgrwyNT8lfXNc1pXK7iGTQKs9p4=",
+			"path": "github.com/ChimeraCoder/anaconda",
+			"revision": "63ac04497fe5e76a698c595abf57578b5db5140c",
+			"revisionTime": "2017-10-16T00:10:23Z"
+		},
+		{
+			"checksumSHA1": "xE9Zo5ubzdEVBeRf+yD/ZjLALHk=",
+			"path": "github.com/ChimeraCoder/tokenbucket",
+			"revision": "c5a927568de7aad8a58127d80bcd36ca4e71e454",
+			"revisionTime": "2013-12-01T22:36:12Z"
+		},
+		{
+			"checksumSHA1": "3RgReu+42CU1EQ6afDsVSvBuPyk=",
+			"path": "github.com/azr/backoff",
+			"revision": "53511d3c733003985b0b76f733df1f4d0095ee6a",
+			"revisionTime": "2016-01-15T11:51:03Z"
+		},
+		{
+			"checksumSHA1": "ycg56E+pTPAHToKMIj8C5SZ+WYQ=",
+			"path": "github.com/dustin/go-jsonpointer",
+			"revision": "ba0abeacc3dcca5b9b20f31509c46794edbc9965",
+			"revisionTime": "2016-08-14T07:29:49Z"
+		},
+		{
+			"checksumSHA1": "2138MttIW/b+UkA4YMYcTc6yzOU=",
+			"path": "github.com/dustin/gojson",
+			"revision": "2e71ec9dd5adce3b168cd0dbde03b5cc04951c30",
+			"revisionTime": "2016-03-07T16:12:27Z"
+		},
+		{
+			"checksumSHA1": "G69FbA3FT6f9Ooq7LG/NLEhAVfY=",
+			"path": "github.com/garyburd/go-oauth/oauth",
+			"revision": "4cff9ef7b7003713efa191899dbaab8fa75e3e73",
+			"revisionTime": "2017-10-04T15:14:16Z"
+		},
+		{
+			"checksumSHA1": "wTskj6wgtRonszLDwcIuRj4ANtU=",
+			"path": "github.com/gocarina/gocsv",
+			"revision": "7099e67763c29f812fa2ed7083f32e38be60125a",
+			"revisionTime": "2017-09-28T10:05:09Z"
+		},
+		{
+			"checksumSHA1": "zRAcxJW8WNDMryOBS4VE03V6ivw=",
+			"path": "github.com/urfave/cli",
+			"revision": "7f4b273a05858e05b96b6adf0a7907b7b695c352",
+			"revisionTime": "2017-10-31T02:55:34Z"
+		},
+		{
+			"checksumSHA1": "GtamqiJoL7PGHsN454AoffBFMa8=",
+			"path": "golang.org/x/net/context",
+			"revision": "c73622c77280266305273cb545f54516ced95b93",
+			"revisionTime": "2017-06-11T01:16:46Z"
+		}
+	],
+	"rootPath": "github.com/andefined/twtarget"
+}
