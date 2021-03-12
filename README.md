@@ -4,7 +4,7 @@ twtarget (or Twitter Target) is a CLI tool, written in [Go](https://golang.org/)
 
 
 ## Installation
-You can download the binaries from the [releases](/releases) section, or you can install it with Go.
+You can download the binaries from the [releases](https://github.com/andefined/twtarget/releases) section, or you can install it with Go.
 
 
 ```bash
