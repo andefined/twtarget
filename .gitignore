@@ -40,6 +40,6 @@ dist/*
 *.html
 *.py
 *.ipynb*
-tatgets/
-*.yaml
+targets/
+bot.yaml
 *.json

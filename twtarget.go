@@ -10,7 +10,7 @@ import (
 func main() {
 	app := cli.NewApp()
 	app.Name = "twtarget"
-	app.Version = "0.0.3"
+	app.Version = "0.1.0"
 	app.Usage = ""
 	app.Description = "twtarget (or Twitter Target) is a CLI tool that collects data from twitter API for a given User."
 

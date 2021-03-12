@@ -1,0 +1,5 @@
+credentials:
+    consumer-key: xxxx
+    consumer-secret: xxxx
+    access-token: xxxx-xxxx
+    access-token-secret: xxxx
